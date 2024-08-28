@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Ensure Connectivity Between The Client And Domain Controller
 - Install Active Directory Domain Services
 - Creating And Assigning User Within Active Directory
-- Step 4
+- Join Client-1 to your Domain
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -51,5 +51,12 @@ Installation Of Domain Controller
 <img src="https://i.imgur.com/ERSYob7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Managing User Accounts And Permissions Within Active Directory
+</p>
+<br />
+
+
+<img src="https://i.imgur.com/vMie4yM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Integrating Client-1 into Domain
 </p>
 <br />
