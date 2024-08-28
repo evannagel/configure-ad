@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Ensure Connectivity Between The Client And Domain Controller
 - Step 2
 - Step 3
 - Step 4
