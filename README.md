@@ -53,6 +53,11 @@ Installation Of Domain Controller
 <p>Managing User Accounts And Permissions Within Active Directory
 </p>
 <br />
+<img src="https://i.imgur.com/lR9oSBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Creating More Users With A Powershell Script
+</p>
+<br />
 
 
 <img src="https://i.imgur.com/vMie4yM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
